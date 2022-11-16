@@ -1,0 +1,9 @@
+D:\projects\Degreed.WebApi\Degreed.Core\bin\Debug\netcoreapp3.1\Degreed.Core.deps.json
+D:\projects\Degreed.WebApi\Degreed.Core\bin\Debug\netcoreapp3.1\Degreed.Core.dll
+D:\projects\Degreed.WebApi\Degreed.Core\bin\Debug\netcoreapp3.1\Degreed.Core.pdb
+D:\projects\Degreed.WebApi\Degreed.Core\obj\Debug\netcoreapp3.1\Degreed.Core.AssemblyInfoInputs.cache
+D:\projects\Degreed.WebApi\Degreed.Core\obj\Debug\netcoreapp3.1\Degreed.Core.AssemblyInfo.cs
+D:\projects\Degreed.WebApi\Degreed.Core\obj\Debug\netcoreapp3.1\Degreed.Core.csproj.CoreCompileInputs.cache
+D:\projects\Degreed.WebApi\Degreed.Core\obj\Debug\netcoreapp3.1\Degreed.Core.dll
+D:\projects\Degreed.WebApi\Degreed.Core\obj\Debug\netcoreapp3.1\Degreed.Core.pdb
+D:\projects\Degreed.WebApi\Degreed.Core\obj\Debug\netcoreapp3.1\Degreed.Core.csprojAssemblyReference.cache

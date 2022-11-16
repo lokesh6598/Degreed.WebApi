@@ -1,0 +1,12 @@
+D:\projects\Degreed.WebApi\Degreed.ICanHazDadJoke\bin\Debug\netcoreapp3.1\Degreed.ICanHazDadJoke.deps.json
+D:\projects\Degreed.WebApi\Degreed.ICanHazDadJoke\bin\Debug\netcoreapp3.1\Degreed.ICanHazDadJoke.dll
+D:\projects\Degreed.WebApi\Degreed.ICanHazDadJoke\bin\Debug\netcoreapp3.1\Degreed.ICanHazDadJoke.pdb
+D:\projects\Degreed.WebApi\Degreed.ICanHazDadJoke\bin\Debug\netcoreapp3.1\Degreed.Core.dll
+D:\projects\Degreed.WebApi\Degreed.ICanHazDadJoke\bin\Debug\netcoreapp3.1\Degreed.Core.pdb
+D:\projects\Degreed.WebApi\Degreed.ICanHazDadJoke\obj\Debug\netcoreapp3.1\Degreed.ICanHazDadJoke.csprojAssemblyReference.cache
+D:\projects\Degreed.WebApi\Degreed.ICanHazDadJoke\obj\Debug\netcoreapp3.1\Degreed.ICanHazDadJoke.AssemblyInfoInputs.cache
+D:\projects\Degreed.WebApi\Degreed.ICanHazDadJoke\obj\Debug\netcoreapp3.1\Degreed.ICanHazDadJoke.AssemblyInfo.cs
+D:\projects\Degreed.WebApi\Degreed.ICanHazDadJoke\obj\Debug\netcoreapp3.1\Degreed.ICanHazDadJoke.csproj.CoreCompileInputs.cache
+D:\projects\Degreed.WebApi\Degreed.ICanHazDadJoke\obj\Debug\netcoreapp3.1\Degreed.ICanHazDadJoke.csproj.CopyComplete
+D:\projects\Degreed.WebApi\Degreed.ICanHazDadJoke\obj\Debug\netcoreapp3.1\Degreed.ICanHazDadJoke.dll
+D:\projects\Degreed.WebApi\Degreed.ICanHazDadJoke\obj\Debug\netcoreapp3.1\Degreed.ICanHazDadJoke.pdb

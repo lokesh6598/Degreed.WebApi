@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "O+avGVW/jxYCVfBmG6pXHh2NAthDimaHsFcoNx7FolFGENH1XpX0Jc+NGIb2txzYArLdldl3+/WM/1KiBwW0fg==",
+  "success": true,
+  "projectFilePath": "D:\\projects\\Degreed.WebApi\\Degreed.ICanHazDadJoke\\Degreed.ICanHazDadJoke.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lokesh_k\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

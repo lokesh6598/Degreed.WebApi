@@ -1,0 +1,16 @@
+D:\projects\Degreed.WebApi\Degreed.BAL\bin\Debug\netcoreapp3.1\Degreed.BAL.deps.json
+D:\projects\Degreed.WebApi\Degreed.BAL\bin\Debug\netcoreapp3.1\Degreed.BAL.dll
+D:\projects\Degreed.WebApi\Degreed.BAL\bin\Debug\netcoreapp3.1\Degreed.BAL.pdb
+D:\projects\Degreed.WebApi\Degreed.BAL\bin\Debug\netcoreapp3.1\Degreed.Core.dll
+D:\projects\Degreed.WebApi\Degreed.BAL\bin\Debug\netcoreapp3.1\Degreed.ICanHazDadJoke.dll
+D:\projects\Degreed.WebApi\Degreed.BAL\bin\Debug\netcoreapp3.1\Degreed.Logger.dll
+D:\projects\Degreed.WebApi\Degreed.BAL\bin\Debug\netcoreapp3.1\Degreed.Core.pdb
+D:\projects\Degreed.WebApi\Degreed.BAL\bin\Debug\netcoreapp3.1\Degreed.ICanHazDadJoke.pdb
+D:\projects\Degreed.WebApi\Degreed.BAL\bin\Debug\netcoreapp3.1\Degreed.Logger.pdb
+D:\projects\Degreed.WebApi\Degreed.BAL\obj\Debug\netcoreapp3.1\Degreed.BAL.csprojAssemblyReference.cache
+D:\projects\Degreed.WebApi\Degreed.BAL\obj\Debug\netcoreapp3.1\Degreed.BAL.AssemblyInfoInputs.cache
+D:\projects\Degreed.WebApi\Degreed.BAL\obj\Debug\netcoreapp3.1\Degreed.BAL.AssemblyInfo.cs
+D:\projects\Degreed.WebApi\Degreed.BAL\obj\Debug\netcoreapp3.1\Degreed.BAL.csproj.CoreCompileInputs.cache
+D:\projects\Degreed.WebApi\Degreed.BAL\obj\Debug\netcoreapp3.1\Degreed.BAL.csproj.CopyComplete
+D:\projects\Degreed.WebApi\Degreed.BAL\obj\Debug\netcoreapp3.1\Degreed.BAL.dll
+D:\projects\Degreed.WebApi\Degreed.BAL\obj\Debug\netcoreapp3.1\Degreed.BAL.pdb
