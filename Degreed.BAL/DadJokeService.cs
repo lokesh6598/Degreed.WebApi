@@ -101,7 +101,7 @@ namespace Degreed.BAL
             {
                 var randomJokeModel = new RandomJokeModel();
                 randomJokeModel.Id = r.id;
-                randomJokeModel.NumberOfWords = !string.IsNullOrEmpty(searchWord) ? r.joke.CountNumberOfWords(): 0;
+                randomJokeModel.NumberOfWords = r.joke.CountNumberOfWords();
                 randomJokeModel.Joke = !string.IsNullOrEmpty(searchWord) ? r.joke.HighlightSearchWord(searchWord) : r.joke;
                 listRandomJokeModel.Add(randomJokeModel);
             });

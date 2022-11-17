@@ -47,7 +47,7 @@ namespace Degreed.WebApi.Controllers
         }
 
         /// <summary>
-        /// This method will get the search word macthing jokes and if the search word is emppty it will return
+        /// This method will get the search word macthing jokes and if the search word is empty it will return
         /// all the jokes
         /// </summary>
         /// <param name="searchTerm"></param>
